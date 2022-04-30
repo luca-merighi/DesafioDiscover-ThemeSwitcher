@@ -12,4 +12,4 @@ Este desafio é uma página com um Switcher que muda o tema da página para Dark
 </div>
 <br/>
 
-### [Link para a Página]( "Theme Switcher")
+### [Link para a Página](https://luca-merighi.github.io/DesafioDiscover-ThemeSwitcher/ "Theme Switcher")
